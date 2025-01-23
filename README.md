@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Ji Hyunseo!
+
 
 <!--
 **3veryDay/3veryDay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
